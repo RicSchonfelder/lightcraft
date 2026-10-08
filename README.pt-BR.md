@@ -15,7 +15,7 @@ Feito em Rust puro, funciona nativamente em macOS, Windows e Linux e também no 
 
 Selecione Editar ▸ Idioma ▸ Português (Brasil), ou configure `~/.config/lightcraft/ui.json` com `"language": "pt-br"`.
 
-PR #228 (tradução pt-BR) aberto no upstream.
+PR #228 já foi MESCLADO no upstream — a interface em pt-BR é oficial.
 
 ## A suíte ArtCraft
 
